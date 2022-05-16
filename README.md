@@ -5,7 +5,7 @@
 ### Currently: 
 
 - Continuing to learn TypeScript and React Native
-- Tinkering with [Redacted](https://nytimes-redacted.herokuapp.com/), a puzzle app in early stage development
+- Tinkering with [Redacted](https://nytimes-redacted.herokuapp.com/), a word puzzle app in early stage development
 - Writing a personal biography about my family's immigration story and my own journey from the San Francisco Bay Area to Beijing and then to Berlin
 
 ### Previously:
